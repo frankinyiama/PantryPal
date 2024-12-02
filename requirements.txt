@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+st-pages
+google-cloud
+google-cloud-bigquery
+pytest
+streamlit_tags
+vertexai
