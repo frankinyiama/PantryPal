@@ -1,0 +1,2 @@
+# PantryPal
+Sophomore Seminar Project
